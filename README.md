@@ -1,8 +1,9 @@
-quara algo kata.
+# Welcome to [Algorithms](https://algo.quora.com/) from quora!
+
+Having some fun with random stuff from quora.
 
 
-Welcome to Algorithms! Want to submit content?
-Welcome to [Algorithms](https://algo.quora.com/)!
+Description from quora page:
 
 This space exists for sharing interesting algorithms & data structures, and interview problems for software engineering jobs.
 
