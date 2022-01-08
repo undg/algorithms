@@ -1,0 +1,10 @@
+node_modules/
+Session.vim
+*.swa
+*.swo
+*.swp
+*.log
+npm-debug.log*
+.npm
+.env
+
